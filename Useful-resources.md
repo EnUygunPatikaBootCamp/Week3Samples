@@ -14,3 +14,4 @@
 - [Twig Docs](https://twig.symfony.com)
 - [PHP Xdebug](https://help.zend.com/zendstudio/current/content/installing_xdebug.htm)
 - [Xdebug Install](https://xdebug.org/docs/install)
+- [Clean Code](https://www.pluralsight.com/blog/software-development/10-steps-to-clean-code)
