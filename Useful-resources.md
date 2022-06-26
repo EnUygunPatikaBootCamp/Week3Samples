@@ -10,3 +10,7 @@
 - [Symfony Doctrine](https://docplayer.biz.tr/233916-Symfony-doctrine-symfony-doctrine-deniz-bahadr-gur-mehmet-onur-yalazi-ozgur-web-teknolojileri-gunleri-2010.html)
 - [Symfony Twig](https://www.bilgigunlugum.net/webprog/symfony/symfony4_twig)
 - [Symfony Official Docs](https://symfony.com/)
+- [Symfony 5.4 Installation](https://symfony.com/doc/5.4/index.html)
+- [Twig Docs](https://twig.symfony.com)
+- [PHP Xdebug](https://help.zend.com/zendstudio/current/content/installing_xdebug.htm)
+- [Xdebug Install](https://xdebug.org/docs/install)
