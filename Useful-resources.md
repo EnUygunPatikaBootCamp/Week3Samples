@@ -21,3 +21,10 @@
 ## Bağlantılar
 
 - [Bundle Nedir? - Umut Ramazan](https://medium.com/@umutramazan/symfony-bundle-%C3%B6zelle%C5%9Fti%CC%87rme-cde09870d722)
+
+## Perşembe Günü Derste Paylaşılan Kaynaklar
+
+## Bağlantılar
+- [Request and Response](https://symfony.com/doc/5.4/introduction/http_fundamentals.html#requests-and-responses-in-http)
+- [HTTP Methods](https://www.w3schools.com/tags/ref_httpmethods.asp)
+- [Postman](https://www.postman.com/)
